@@ -115,10 +115,6 @@ describe "foreign key (*_id) columns" do
       event_streams.container_replicator_id
       event_streams.dest_ems_cluster_id
       event_streams.group_id
-      event_streams.physical_chassis_id
-      event_streams.physical_server_id
-      event_streams.physical_storage_id
-      event_streams.physical_switch_id
       event_streams.target_id
       event_streams.tenant_id
       event_streams.user_id
