@@ -109,10 +109,6 @@ describe "foreign key (*_id) columns" do
       disks.backing_id
       disks.storage_profile_id
       entitlements.miq_user_role_id
-      event_streams.container_group_id
-      event_streams.container_id
-      event_streams.container_node_id
-      event_streams.container_replicator_id
       event_streams.dest_ems_cluster_id
       event_streams.group_id
       event_streams.target_id
